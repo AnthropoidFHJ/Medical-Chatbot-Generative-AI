@@ -1,6 +1,6 @@
-===================================================================
+
                  MediBot: A Medical AI Chatbot
-===================================================================
+
  **Project Overview**
 
 **MediBot** is a personalized, privacy-preserving Medical Q&A chatbot built to assist users with reliable answers from curated medical documents. MediBot runs on Flask with a cutting-edge retrieval-augmented generation (RAG) pipeline powered by **LLaMA3-70B via Groq API**. The system supports real-time document understanding using **LangChain**, **HuggingFace Embeddings**, and **Pinecone** for semantic search.
@@ -127,5 +127,5 @@ PDFs → Text → Chunks → Embeddings → Pinecone Index
 
 
 
-**Author: Ferdous Hasan**   
-**Date: 26 June 2025**
+*Author: Ferdous Hasan*
+*Date: 26 June 2025*
