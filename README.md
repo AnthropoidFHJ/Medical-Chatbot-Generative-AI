@@ -1,5 +1,5 @@
 
-                 MediBot: A Medical AI Chatbot
+## MediBot: A Medical AI Chatbot ##
 
  **Project Overview**
 
