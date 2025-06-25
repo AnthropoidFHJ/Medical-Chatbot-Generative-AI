@@ -4,7 +4,9 @@ flask
 pypdf
 python-dotenv
 pinecone [grpc]
+groq
 langchain-pinecone
 langchain_community
+langchain_groq
 langchain_experimental
 -e .
