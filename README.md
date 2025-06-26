@@ -127,11 +127,11 @@ PDFs → Text → Chunks → Embeddings → Pinecone Index
 
 ---
 
-
 **This project was developed with a strong intent to help users access accurate, AI-powered medical information quickly and securely.**
 
-
+---
 
 *Author: Ferdous Hasan*
-
+---
 *Date: 26 June 2025*
+---
