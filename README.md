@@ -101,7 +101,7 @@ Visit: [http://localhost:8080](http://localhost:8080)
 
 ```
 PDFs → Text → Chunks → Embeddings → Pinecone Index
-                                        ↑ ↓
+                                        ↓
                 Query Embedding →  Knowledge Base
                                         ↓
                                     Ranked Result → Groq LLM → Answer
