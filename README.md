@@ -131,5 +131,5 @@ PDFs → Text → Chunks → Embeddings → Pinecone Index
 
 ---
 
-*Author: Ferdous Hasan*
-*Date: 26 June 2025*
+**Author:** Ferdous Hasan
+**Date:** 26 June 2025*
