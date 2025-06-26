@@ -50,17 +50,22 @@ git clone https://github.com/AnthropoidFHJ/Medical-Chatbot-Generative-AI
 ```
 
 2. **Create the Conda Environment**
-'''bash
+
+```bash
 conda create -n MediBot python=3.10 -y
+```
 
-'''bash
+```bash
 conda activate MediBot
+```
 
-'''bash
+```bash
 conda create -n MediBot python=3.10 -y
+```
 
-'''bash
+```bash
 conda activate MediBot
+```
 
 3. **Install Requirements**
 
@@ -128,4 +133,5 @@ PDFs → Text → Chunks → Embeddings → Pinecone Index
 
 
 *Author: Ferdous Hasan*
+
 *Date: 26 June 2025*
