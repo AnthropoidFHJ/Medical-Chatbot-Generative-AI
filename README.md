@@ -1,5 +1,5 @@
 
-## MediBot: A Medical AI Chatbot ##
+## MediBot: A Medical AI Assistant ##
 
  **Project Overview**
 
@@ -132,6 +132,4 @@ PDFs → Text → Chunks → Embeddings → Pinecone Index
 ---
 
 *Author: Ferdous Hasan*
----
 *Date: 26 June 2025*
----
