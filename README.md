@@ -59,14 +59,6 @@ conda create -n MediBot python=3.10 -y
 conda activate MediBot
 ```
 
-```bash
-conda create -n MediBot python=3.10 -y
-```
-
-```bash
-conda activate MediBot
-```
-
 3. **Install Requirements**
 
 ```bash
